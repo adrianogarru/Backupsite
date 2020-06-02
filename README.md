@@ -2,9 +2,9 @@
 
 The purpose of this script is to back up under the archive: Website Folder, Database, and Server Configuration Folder.
 
-**Author:** Adriano Garruba [website](https://adrianogarruba.com/)
-**Date:** 2/06/2020
-**Release** 1.0
+**Author:** Adriano Garruba [website](https://adrianogarruba.com/) <br?>
+**Date:** 2/06/2020 </br>
+**Release** 1.0 </br>
 
 - This script has been tested on **Linux CentOS 8** successfully.
 
