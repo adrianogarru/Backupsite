@@ -2,7 +2,7 @@
 
 The purpose of this script is to back up under the archive: Website Folder, Database, and Server Configuration Folder.
 
-**Author:** Adriano Garruba [website](https://adrianogarruba.com/) <br?>
+**Author:** Adriano Garruba [website](https://adrianogarruba.com/) </br>
 **Date:** 2/06/2020 </br>
 **Release** 1.0 </br>
 
