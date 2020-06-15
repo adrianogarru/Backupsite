@@ -21,6 +21,10 @@ The purpose of this script is to back up under the archive: Website Folder, Data
 - The use of this code and any issue occurred will be at your responsibility.
 - This script has been created for my personal use and educational purpose, I will highly appreciate any kind of suggestion.
 
+### Upadte
+
+- 6/15/2020: Fixed on line 1 in file **backupsite.sh** the bash interpreted.
+
 
 
 
