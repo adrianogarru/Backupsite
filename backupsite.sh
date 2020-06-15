@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 #This Script will help to archive: Website Files, Database and Server Configuration Files.
 
@@ -38,8 +38,6 @@ mv $NAME_BACK_UP_DB$(date +%Y_%m_%d).sql $PATH_TO_STORE
 cd $PATH_TO_CONFIGFIlE
 tar -cvf $NAME_BACK_UP_CONF$(date +%Y_%m_%d).tar $NAME_FOLDER_CONF
 mv $NAME_BACK_UP_CONF$(date +%Y_%m_%d).tar $PATH_TO_STORE
-
-
 
 
 
